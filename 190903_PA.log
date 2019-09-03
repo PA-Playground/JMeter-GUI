@@ -1,0 +1,47 @@
+2019-09-03 11:45:31,750 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2019-09-03 11:45:31,790 INFO o.a.j.JMeter: Loading user properties from: /usr/local/apache-jmeter-5.1.1/bin/user.properties
+2019-09-03 11:45:31,792 INFO o.a.j.JMeter: Loading system properties from: /usr/local/apache-jmeter-5.1.1/bin/system.properties
+2019-09-03 11:45:31,803 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2019-09-03 11:45:31,804 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2019-09-03 11:45:31,805 INFO o.a.j.JMeter: java.version=1.8.0_222
+2019-09-03 11:45:31,805 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2019-09-03 11:45:31,806 INFO o.a.j.JMeter: os.name=Linux
+2019-09-03 11:45:31,806 INFO o.a.j.JMeter: os.arch=amd64
+2019-09-03 11:45:31,807 INFO o.a.j.JMeter: os.version=4.9.184-linuxkit
+2019-09-03 11:45:31,807 INFO o.a.j.JMeter: file.encoding=ANSI_X3.4-1968
+2019-09-03 11:45:31,808 INFO o.a.j.JMeter: java.awt.headless=true
+2019-09-03 11:45:31,808 INFO o.a.j.JMeter: Max memory     =466092032
+2019-09-03 11:45:31,809 INFO o.a.j.JMeter: Available Processors =2
+2019-09-03 11:45:31,816 INFO o.a.j.JMeter: Default Locale=English (United States)
+2019-09-03 11:45:31,818 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2019-09-03 11:45:31,818 INFO o.a.j.JMeter: JMeterHome=/usr/local/apache-jmeter-5.1.1
+2019-09-03 11:45:31,819 INFO o.a.j.JMeter: user.dir  =/
+2019-09-03 11:45:31,820 INFO o.a.j.JMeter: PWD       =/
+2019-09-03 11:45:31,821 INFO o.a.j.JMeter: IP: 172.17.0.2 Name: cdfed2ee6f2e FullName: cdfed2ee6f2e
+2019-09-03 11:45:31,832 INFO o.a.j.s.FileServer: Default base='/'
+2019-09-03 11:45:31,846 INFO o.a.j.s.FileServer: Set new base='/mnt'
+2019-09-03 11:45:32,234 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2019-09-03 11:45:32,276 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2019-09-03 11:45:32,291 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2019-09-03 11:45:32,312 INFO o.a.j.s.SaveService: Loading file: /mnt/test-plan.jmx
+2019-09-03 11:45:32,438 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-03 11:45:32,439 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-03 11:45:32,440 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-03 11:45:32,441 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2019-09-03 11:45:32,441 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2019-09-03 11:45:32,442 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2019-09-03 11:45:32,545 INFO o.a.j.JMeter: Creating summariser <summary>
+2019-09-03 11:45:32,585 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2019-09-03 11:45:32,591 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-09-03 11:45:32,593 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2019-09-03 11:45:32,643 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2019-09-03 11:45:32,643 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2019-09-03 11:45:33,692 INFO o.a.j.JMeter: Running test (1567511133691)
+2019-09-03 11:45:33,747 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Scenario 1
+2019-09-03 11:45:33,748 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Scenario 1.
+2019-09-03 11:45:33,749 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2019-09-03 11:45:33,750 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=2 delayedStart=false
+2019-09-03 11:45:33,762 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2019-09-03 11:45:33,766 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2019-09-03 11:45:33,770 INFO o.a.j.r.ResultCollector: Shutdown hook started
+2019-09-03 11:45:33,775 INFO o.a.j.r.ResultCollector: Shutdown hook ended
